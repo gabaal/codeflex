@@ -190,6 +190,7 @@
   }
 }
 
+/* TODO: EXPLAIN THIS BC U PROMISED JUST IN THE FIRST SECTION */
 @keyframes slow-spin {
   from {
     transform: rotate(0deg);
